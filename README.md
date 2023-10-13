@@ -1,7 +1,7 @@
 # STLab-Summary
 **This project collects spatiotemporal data mining laboratories around the world and continuously updates the latest papers from each laboratory.**
 
-**声明：主要统计隶属于计算机学科的实验室，例如地理信息科学（GIS）的团队作者没有很了解，因此没有做相应的收集，还请海涵。欢迎各位补充。**
+**声明：主要统计隶属于计算机学科的实验室，例如地理信息科学（GIS）的团队作者没有很了解，因此没有做相应的收集，还请海涵。欢迎各位补充（提[issue](https://github.com/shenzekai/STLab-Summary/issues/new)）。**
 
 ## **大陆**
 
