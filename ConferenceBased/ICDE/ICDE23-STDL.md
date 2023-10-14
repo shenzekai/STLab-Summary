@@ -379,7 +379,3 @@ ICDE 2023 TKDE Poster Track 全部接收论文：[TKDE Poster Track](https://icd
 [KDD 2023 时空数据相关论文](https://zhuanlan.zhihu.com/p/650189765)
 
 [CIKM 2023 时空数据论文总结](https://zhuanlan.zhihu.com/p/655169678)
-
-[AAAI 2023时空数据学习相关论文汇总](https://mp.weixin.qq.com/s/pAiYMnekcDc_pcI7YFSqYg)
-
-[KDD 2022时空数据挖掘领域论文汇总](https://mp.weixin.qq.com/s/9mvHsUCvhMwphaLGmILzYw)
