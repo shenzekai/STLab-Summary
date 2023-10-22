@@ -5,13 +5,13 @@
 
 **该项目按照组、会议以及实际问题区分了三类论文:**
 
-基于问题：[QuestionBased](./QuestionBased)
+基于问题：[QuestionBased](./QuestionBased)（时空预测：数据预测、插补，气象预测etc）
 
-基于会议：[ConferencedBased](./ConferenceBased)
+基于会议：[ConferencedBased](./ConferenceBased)（ICML, NeurIPS, ICLR, SIGMOD, VLDB, ICDE,  SIGKDD, AAAI, IJCAI, CIKM, WSDM, ECML-PKDD etc）
 
-基于课题组：[GroupBased](./GroupBased)
+基于课题组：[GroupBased](./GroupBased) (基于以下课题组列表总结各个组最新论文list)
 
-**（提[issue](https://github.com/shenzekai/STLab-Summary/issues/new)）**
+**[issue](https://github.com/shenzekai/STLab-Summary/issues/new)**
 
 ## **大陆**
 
@@ -175,7 +175,7 @@ ACM SIGSPATIAL 中国分会 2022优秀博士论文奖
 
 ![img](https://pic3.zhimg.com/80/v2-fc206870e591444a9eda839fc3af27b2_720w.jpg)
 
-- **重庆大学李瑞远老师组（老师本人在知乎）** [@李瑞远](https://www.zhihu.com/people/130b82d7ee2db147ef9a18ae444e36d6) 
+- **重庆大学李瑞远老师组** 
 
 李瑞远老师主页**：**[Ruiyuan Li (李瑞远)](http://www.kangry.net/blog/ruiyuanli)   重庆大学主页：[李瑞远-计算机学院主页](http://www.cs.cqu.edu.cn/info/1275/6086.htm)
 
@@ -239,17 +239,17 @@ ACM SIGSPATIAL 中国分会 2022优秀博士论文奖
 
 黄超老师既做时空数据，也做推荐，现在感觉大环境推荐较火，黄老师近期推荐做的很多。
 
-- **香港科技大学[广州]梁宇轩老师组（老师本人在知乎）**[@Yoshall](https://www.zhihu.com/people/2d2515ada5f54c6a48994fc8a3ef27a7) [Yoshall](https://www.zhihu.com/people/castleliang)
+- **香港科技大学[广州]梁宇轩老师组**
 
 梁宇轩老师主页：[Yuxuan Liang](http://yuxuanliang.com/)
 
 梁宇轩老师实验室CityMind主页：[CityMind LAB - HKUST(GZ)](https://citymind.top/)
 
-梁老师的招生贴：https://zhuanlan.zhihu.com/p/621996464
+梁老师的知乎招生贴：https://zhuanlan.zhihu.com/p/621996464
 
 ![CityMind](https://pic4.zhimg.com/80/v2-e060a1fe00e35351662b29e658b443f4_720w.jpg)
 
-- **香港科技大学[广州]刘浩老师组（老师本人在知乎）**[刘浩](https://www.zhihu.com/people/liu-hao-3-58-50) [@刘浩](https://www.zhihu.com/people/9aa60afbdf3557bd87c93935ab2ca3ee) 
+- **香港科技大学[广州]刘浩老师组（老师本人在知乎）**
 
 刘浩老师主页：[Hao Liu’s Homepage](https://raymondhliu.github.io/)
 
