@@ -1,7 +1,17 @@
 # STLab-Summary
 **This project collects spatiotemporal data mining laboratories around the world and continuously updates the latest papers from each laboratory.**
 
-**声明：主要统计隶属于计算机学科的实验室，例如地理信息科学（GIS）的团队作者没有很了解，因此没有做相应的收集，还请海涵。欢迎各位补充（提[issue](https://github.com/shenzekai/STLab-Summary/issues/new)）。**
+**该项目总结了世界上做时空数据挖掘较为知名的组，以及总结了前沿的时空和时序相关的论文。**
+
+**该项目按照组、会议以及实际问题区分了三类论文:**
+
+基于问题：[QuestionBased](./QuestionBased)
+
+基于会议：[ConferencedBased](./ConferenceBased)
+
+基于课题组：[GroupBased](./GroupBased)
+
+**（提[issue](https://github.com/shenzekai/STLab-Summary/issues/new)）**
 
 ## **大陆**
 
